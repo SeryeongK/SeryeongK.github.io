@@ -1,5 +1,5 @@
 ---
-title: "[Inside Javascript] Ch3.1"
+title: "자바스크립트 기본 타입"
 date: 2021-01-15 22:55
 categories: [Javascript]
 ---

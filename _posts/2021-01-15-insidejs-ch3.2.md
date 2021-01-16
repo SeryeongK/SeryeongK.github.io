@@ -1,6 +1,6 @@
 ---
-title: "[Inside Javascript] Ch3.2"
-date: 2021-01-15 22:00
+title: "자바스크립트 참조 타입(객체 타입)"
+date: 2021-01-15 22:03
 categories: [Javascript]
 ---
 
