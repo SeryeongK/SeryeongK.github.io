@@ -1,12 +1,7 @@
-
 ---
-layout: post
-title: [Inside Javascript] Ch3.1
-subtitle: "자바스크립트 기본 타입"
-date: 2021-01-15 22:38
-comments: true
-categories : [Javascript]
-tag: [Javascript]
+title: "[Inside Javascript] Ch3.1"
+date: 2021-01-15 22:55
+categories: [Javascript]
 ---
 
 # [Inside Javascript] Ch3.1
@@ -20,7 +15,6 @@ tag: [Javascript]
 참조 타입: 객체(Object) - 배열(Array), 함수(Function), 정규표현식
 
 ---
-
 
 # 3.1 자바스크립트 기본 타입
 
