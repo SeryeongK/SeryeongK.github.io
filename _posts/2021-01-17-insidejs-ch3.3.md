@@ -1,4 +1,10 @@
-# [Inside Javascript] Ch3.3 참조 타입의 특성
+---
+title: "참조 타입의 특성"
+date: 2021-01-17 16:17
+categories: [Javascript]
+---
+
+# [Inside Javascript] Ch3.3
 
 ※ <인사이드 자바스크립트>(송형주, 고현준 지음)을 바탕으로 작성하였습니다. ※
 
