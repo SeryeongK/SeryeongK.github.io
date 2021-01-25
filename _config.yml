@@ -275,3 +275,15 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+collections:
+  tags:
+    output: true
+    permalink: /tags/:path/
+# ...
+defaults:
+  - scope:
+      path: ''
+      type: tags
+    values:
+      layout: tag
