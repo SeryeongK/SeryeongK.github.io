@@ -276,14 +276,14 @@ defaults:
       share: true
       related: true
       
-collections:
-  tags:
-    output: true
-    permalink: /tags/:path/
+#collections:
+#  tags:
+#    output: true
+#    permalink: /tags/:path/
 # ...
-defaults:
-  - scope:
-      path: ''
-      type: tags
-    values:
-      layout: tag
+#defaults:
+#  - scope:
+#      path: ''
+#      type: tags
+#    values:
+#      layout: tag
