@@ -1,5 +1,5 @@
 ---
-title: "[NomadCoder-movie_app] Setup"
+title: "[ReactJS] NomadCoder-movie_app - Setup"
 date: 2021-02-04 20:41
 categories: [ReactJS]
 ---
